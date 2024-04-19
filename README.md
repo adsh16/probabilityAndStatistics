@@ -1,3 +1,9 @@
 <h1>Coding assignment done under :</h1>
-  1. Course Name : probability and statistics
+<ul>
+  <ol>
+  Course Name : probability and statistics
+  </ol>
+  <ol>
   2. Course Code : MTH 201
+  </ol>  
+</ul>
